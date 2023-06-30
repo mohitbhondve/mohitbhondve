@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohitbhondve
-- 👀 I’m interested in web development
-- 🌱 I’m working on Angular
+- 👀 Interested in web development
+- 🌱 Coding in JavaScript
 - 📫 reach me on mohit.bhondve01@gmail.com
 
 <!---
